@@ -1,7 +1,7 @@
 # odin-recipes
 
-Description
+Description  
 First project in The Odin Project - a simple website with recipes
 
-Technologies    
+Technologies  
 HTML
