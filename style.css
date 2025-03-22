@@ -1,0 +1,54 @@
+.page
+{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #333;
+    margin: 10;
+    padding: 0;
+    line-height: 1.6;
+}
+
+.index
+{
+    background-color: #E3D1B8;
+}
+
+.recipe
+{
+    background-color: #ECE4D8;
+}
+
+h1, h2
+{
+    margin-bottom: 20px;
+    color: #2c3e50;
+    font-size: 36px;
+}
+
+h2
+{
+    font-size: 28px;
+}
+
+p, ul, ol
+{
+    margin-bottom: 15px;
+    font-size: 18px;
+}
+
+ul 
+{
+    list-style-type: square;
+    padding-left: 20px;
+}
+
+ol 
+{
+    list-style-type: decimal;
+    padding-left: 20px;
+}
+
+img 
+{
+    border-radius: 8px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2);
+}
